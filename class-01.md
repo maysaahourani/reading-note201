@@ -7,9 +7,10 @@ its a structure and content of the website
 
 ## standard  HTML page 
 
-![htmlpage]("standard HTML page structure.PNG")
 
-*body*
+
+
+**body**
 You met the *body* element
 in the first example we created.
 Everything inside this element is
@@ -27,17 +28,14 @@ information that is shown within
 the main part of the browser
 window that is highlighted in
 blue on the opposite page).
-You will usually find a **<title>**
+You will usually find a **title**
 element inside the 
 **head**
 element.
 
+### HTML pages are text documents.
 
-
-
-HTML pages are text documents.
-* HTML uses tags (characters that sit inside angled
-brackets) to give the information they surround special
+* HTML uses tags (characters that sit inside angledbrackets) to give the information they surround special
 meaning.
 * Tags are often referred to as elements.
 * Tags usually come in pairs. The opening tag denotes
