@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
+this site is about 201 reading notes , a i will save my reading notes here in this file.
 
-
-###five beautiful features of mark down 
+### five beautiful features of mark down 
 * It's very easy to make some words **bold**
 * it's useful to make some words *italic*
 * you can make lists like this 
@@ -9,14 +9,15 @@
 + second element
 
 * you can share a link like this example this is my github [maysaa Github](https://github.com/maysaahourani/)
+
 * you can post images in markdown by this method 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+``![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)``
 
 
 ## Table Of Content
 
-content                                             tite
+content                                                 ----------------------------------------------title
                                             |
 --------------------------------------------------------------------------------------------
                                            |
@@ -39,9 +40,16 @@ content                                             tite
 --------------------------------------------------------------------------------------------
                                            |
 --------------------------------------------------------------------------------------------
-
 --------------------------------------------------------------------------------------------
-
+                                           |    
 --------------------------------------------------------------------------------------------
-
+                                           |
+--------------------------------------------------------------------------------------------
+                                           |
+--------------------------------------------------------------------------------------------
+                                           |
+--------------------------------------------------------------------------------------------
+                                           |
+--------------------------------------------------------------------------------------------
+                                           |
 --------------------------------------------------------------------------------------------
