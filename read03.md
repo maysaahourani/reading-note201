@@ -94,6 +94,7 @@ it is not visible or is specified to
 be 0 pixels wide). The border
 separates the edge of one box
 from another.
+(you can changes border styles colors )
 2. Margin
 Margins sit outside the edge
 of the border. You can set the
@@ -153,10 +154,51 @@ var itemThr ee;
 itemThree = col ors [2] ;
 
 
+## logical opertaors in javascript
+![](ss.PNG)
+
+
+if statmennts 
+if(condition){
+    //do things
+}
 
 
 
+ if (condition){
 
+     //dothings here
+ }
+else{
+
+    //doo things here
+}
+
+
+
+### switch statment
+A switch statement starts with a
+variable called the switch value.
+Each case indicates a possible
+value for this variable and the
+code that should run if the
+variable matches that value. 
+
+![](sw.PNG)
+
+* JavaScript is said to use weak
+typing because the data type
+for a value can change. Some
+other languages require that you
+specify what data type
+each variable will be. They are
+said to use strong typing.
+
+
+
+for loop
+
+![](forloop.PNG)
 
 
 
